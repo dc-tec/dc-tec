@@ -1,6 +1,6 @@
 ## 👋 Hi, there
 - 👀 I’m interested in Infrastructure as Code, Kubernetes, public and private cloud management.
-- 🌱 I’m currently working and learing how to automate and manage my homelab infrastructure using IaC tooling. 
+- 🌱 I’m currently working and learing how to automate and manage my homelab infrastructure using IaC tooling and GitOps. 
 
 
 <!---
